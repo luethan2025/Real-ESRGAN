@@ -5,6 +5,7 @@ results/*
 tb_logger/*
 wandb/*
 tmp/*
+*/weights/*
 weights/*
 
 version.py
@@ -138,3 +139,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Image files
+*.png
+*.jpg
+*.jpeg
